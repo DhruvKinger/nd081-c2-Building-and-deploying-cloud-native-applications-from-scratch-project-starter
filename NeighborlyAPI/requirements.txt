@@ -1,2 +1,6 @@
-azure-functions==1.2.1
-pymongo==3.10.1
+azure-functions==1.24.0
+certifi==2024.8.30
+dnspython==2.8.0
+MarkupSafe==3.0.3
+pymongo==4.10.1
+Werkzeug==3.1.3
